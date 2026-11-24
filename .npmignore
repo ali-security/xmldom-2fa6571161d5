@@ -4,3 +4,4 @@ travis.yml
 .project
 changelog
 .github
+.gitattributes
